@@ -1,0 +1,53 @@
+/* Formatting at least six elements */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightcyan;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+}
+
+h3 {
+    color: #777;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+footer {
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+}
+
+/* CSS class for custom formatting */
+.favorite-things {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.favorite-things th, .favorite-things td {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+/* Semantic HTML elements */
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
